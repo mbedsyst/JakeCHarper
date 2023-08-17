@@ -1,0 +1,4 @@
+../Src/UART.c:4:6:UART_Init	4	static
+../Src/UART.c:17:6:UART_Tx	16	static
+../Src/UART.c:24:6:UART_Tx_String	16	static
+../Src/UART.c:31:6:UART_Rx	4	static

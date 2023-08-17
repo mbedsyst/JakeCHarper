@@ -1,0 +1,2 @@
+../Src/GPIO.c:4:6:GPIO_Init	2
+../Src/GPIO.c:13:6:GPIO_Toggle	1
